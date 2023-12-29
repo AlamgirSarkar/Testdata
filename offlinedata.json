@@ -1,0 +1,1209 @@
+{
+    "offline_lookup_cd14c5cce150_temp_655b65cb0653c200145655ad": [
+      {
+        "attributes": {
+          "type": "Location",
+          "url": "/services/data/v55.0/sobjects/Location/131DJ000000su9sYAA"
+        },
+        "Name": "A&M PAD",
+        "LocationNumber__c": "908938",
+        "Id": "131DJ000000su9sYAA",
+        "key": "131DJ000000su9sYAA"
+      }
+    ],
+    "offline_lookup_7562fdcdf2ef_temp_655b65cb0653c200145655ad": [
+      {
+        "attributes": {
+          "type": "Location",
+          "url": "/services/data/v55.0/sobjects/Location/131DJ000000stwqYAA"
+        },
+        "Id": "131DJ000000stwqYAA",
+        "ParentLocationId": "131DJ000000su9sYAA",
+        "key": "131DJ000000stwqYAA"
+      },
+      {
+        "attributes": {
+          "type": "Location",
+          "url": "/services/data/v55.0/sobjects/Location/131DJ000000stwrYAA"
+        },
+        "Id": "131DJ000000stwrYAA",
+        "ParentLocationId": "131DJ000000su9sYAA",
+        "key": "131DJ000000stwrYAA"
+      },
+      {
+        "attributes": {
+          "type": "Location",
+          "url": "/services/data/v55.0/sobjects/Location/131DJ000000su9sYAA"
+        },
+        "Id": "131DJ000000su9sYAA",
+        "ParentLocationId": null,
+        "key": "131DJ000000su9sYAA"
+      }
+    ],
+    "offline_lookup_655b65cb0653c200145655d8_temp_655b65cb0653c200145655ad": [
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001Q95oYAC"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001Q95oYAC",
+        "Manufacturer__c": null,
+        "Name": "TBG,OCTG: 2-7/8\" 7.9# P110 PH6",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001Q95oYAC"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001Q9DRYA0"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": "Les Paul",
+        "SerialNumber": "T0422-4166/157111",
+        "Id": "02iDJ000001Q9DRYA0",
+        "Manufacturer__c": "a0qDn0000027PlkIAE",
+        "Name": "METER TUBE: 6\" 1480# CL600 S80 DC",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": "SEP,PROD: 48\" X 10' 2PH 1440# SKD",
+        "key": "02iDJ000001Q9DRYA0"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QARcYAO"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": "Test model",
+        "SerialNumber": "223913",
+        "Id": "02iDJ000001QARcYAO",
+        "Manufacturer__c": null,
+        "Name": "VLV,SAFETY GATE: 3-1/8\" 5K EE-U-2",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QARcYAO"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QAYSYA4"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QAYSYA4",
+        "Manufacturer__c": null,
+        "Name": "CSG,OCTG: 9-5/8\" 36# J55 LTC MKR",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QAYSYA4"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QAYWYA4"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QAYWYA4",
+        "Manufacturer__c": "a0qDn0000027Pl3IAE",
+        "Name": "CSG,OCTG: 5-1/2\" 20# P110 HP FREEDOM HTQ",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QAYWYA4"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QAZGYA4"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QAZGYA4",
+        "Manufacturer__c": null,
+        "Name": "CSG,OCTG: 5-1/2\" 20# P110 FREEDM HTQ MKR",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QAZGYA4"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QAeBYAW"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "T0422-4165/157112",
+        "Id": "02iDJ000001QAeBYAW",
+        "Manufacturer__c": "a0qDn0000027Q6LIAU",
+        "Name": "METER TUBE: 6\" 1480# CL600 S80 DC",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": "SEP,PROD: 48\" X 10' 2PH 1440# SKD",
+        "key": "02iDJ000001QAeBYAW"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QAiLYAW"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "L5111",
+        "Id": "02iDJ000001QAiLYAW",
+        "Manufacturer__c": "a0qDn0000027PvyIAE",
+        "Name": "CHOKE: 3-1/8\" 5K EE-PU-2",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QAiLYAW"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QAe0YAG"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "3051170591",
+        "Id": "02iDJ000001QAe0YAG",
+        "Manufacturer__c": null,
+        "Name": "TANK,FIBERGLASS: 400BBL 12' X 20' DBL WL",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QAe0YAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QArgYAG"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": "Warrior Hockey",
+        "SerialNumber": "22-P146/667-3",
+        "Id": "02iDJ000001QArgYAG",
+        "Manufacturer__c": "a0qDn0000027Pk3IAE",
+        "Name": "DRYER,DESICCANT: 8-5/8\" X 5' 1440",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QArgYAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QAvHYAW"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QAvHYAW",
+        "Manufacturer__c": null,
+        "Name": "CSG,OCTG: 5-1/2\" 20# P110 FREEDM HTQ MKR",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QAvHYAW"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QAukYAG"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QAukYAG",
+        "Manufacturer__c": "a0qDn0000027Pl3IAE",
+        "Name": "CSG,OCTG: 9-5/8\" 36# J55 LTC",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QAukYAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QAxpYAG"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QAxpYAG",
+        "Manufacturer__c": "a0qDn0000027Pl3IAE",
+        "Name": "CSG,OCTG: 5-1/2\" 20# P110 HP FREEDOM HTQ",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QAxpYAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QAvjYAG"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QAvjYAG",
+        "Manufacturer__c": null,
+        "Name": "SOOFIE SENSOR MONITOR",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QAvjYAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QAxhYAG"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "666-5",
+        "Id": "02iDJ000001QAxhYAG",
+        "Manufacturer__c": "a0qDn0000027Po2IAE",
+        "Name": "SCRBR: 18\" X 4' 1440#",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": "DRYER,DESICCANT: 8-5/8\" X 5' 1440",
+        "key": "02iDJ000001QAxhYAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QB1hYAG"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QB1hYAG",
+        "Manufacturer__c": "a0qDn0000027Pl3IAE",
+        "Name": "CSG,OCTG: 13-3/8\" 48# J55 BTC",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QB1hYAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QB0kYAG"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "223914",
+        "Id": "02iDJ000001QB0kYAG",
+        "Manufacturer__c": null,
+        "Name": "VLV,SAFETY GATE: 3-1/8\" 5K EE-U-2",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QB0kYAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QB35YAG"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "L5120",
+        "Id": "02iDJ000001QB35YAG",
+        "Manufacturer__c": "a0qDn0000027PvyIAE",
+        "Name": "CHOKE: 3-1/8\" 5K EE-PU-2",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QB35YAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QB4XYAW"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QB4XYAW",
+        "Manufacturer__c": null,
+        "Name": "CSG,OCTG: 9-5/8\" 36# J55 LTC MKR",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QB4XYAW"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QB30YAG"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QB30YAG",
+        "Manufacturer__c": null,
+        "Name": "SOOFIE SENSOR MONITOR",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QB30YAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QB5PYAW"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "L4609",
+        "Id": "02iDJ000001QB5PYAW",
+        "Manufacturer__c": "a0qDn0000027PvyIAE",
+        "Name": "CHOKE,ACTD: 3-1/8\" 5K EE-2-2-PU",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QB5PYAW"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QB5tYAG"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QB5tYAG",
+        "Manufacturer__c": "a0qDn0000027Pl3IAE",
+        "Name": "CSG,OCTG: 9-5/8\" 40# J55 LTC",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QB5tYAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QB5KYAW"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QB5KYAW",
+        "Manufacturer__c": null,
+        "Name": "CSG,OCTG: 13-3/8\" 48# J55 BTC MKR",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QB5KYAW"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QB7wYAG"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "PG 761",
+        "Id": "02iDJ000001QB7wYAG",
+        "Manufacturer__c": "a0qDn0000027Q1tIAE",
+        "Name": "GENERATOR,THERMO-ELEC: 1200W AT 240VAC",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QB7wYAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QBFoYAO"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QBFoYAO",
+        "Manufacturer__c": null,
+        "Name": "SOOFIE SENSOR MONITOR",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QBFoYAO"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QBTIYA4"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QBTIYA4",
+        "Manufacturer__c": "a0qDn0000027Pl3IAE",
+        "Name": "CSG,OCTG: 9-5/8\" 36# J55 LTC",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QBTIYA4"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QBVcYAO"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QBVcYAO",
+        "Manufacturer__c": null,
+        "Name": "CSG,OCTG: 13-3/8\" 48# J55 BTC MKR",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QBVcYAO"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QBOrYAO"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QBOrYAO",
+        "Manufacturer__c": "a0qDn0000027Pl3IAE",
+        "Name": "CSG,OCTG: 9-5/8\" 40# J55 LTC",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QBOrYAO"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QBPjYAO"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QBPjYAO",
+        "Manufacturer__c": "a0qDn0000027Pl3IAE",
+        "Name": "CSG,OCTG: 13-3/8\" 48# J55 BTC",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QBPjYAO"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QBjTYAW"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QBjTYAW",
+        "Manufacturer__c": null,
+        "Name": "SOOFIE ANEMOMETER",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QBjTYAW"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QBq6YAG"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QBq6YAG",
+        "Manufacturer__c": null,
+        "Name": "SOOFIE SENSOR MONITOR",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QBq6YAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QD4xYAG"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "21220096",
+        "Id": "02iDJ000001QD4xYAG",
+        "Manufacturer__c": "a0qDn0000027Q2gIAE",
+        "Name": "METER,VORTEX: 2\" NPT SEP APP \"G\"",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": "SEP,PROD: 48\" X 10' 2PH 1440# SKD",
+        "key": "02iDJ000001QD4xYAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QDOdYAO"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QDOdYAO",
+        "Manufacturer__c": null,
+        "Name": "ACTR,ELEC: ROTORK IQ-SERIES",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": "CHOKE: 3-1/8\" 5K EE-PU-2",
+        "key": "02iDJ000001QDOdYAO"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QDPYYA4"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "L5253",
+        "Id": "02iDJ000001QDPYYA4",
+        "Manufacturer__c": null,
+        "Name": "CHOKE: 3-1/8\" 5K EE-PU-2",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QDPYYA4"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QDaXYAW"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001QDaXYAW",
+        "Manufacturer__c": null,
+        "Name": "ACTR,ELEC: ROTORK IQ-SERIES",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001QDaXYAW"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QDxdYAG"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "7261 1135302",
+        "Id": "02iDJ000001QDxdYAG",
+        "Manufacturer__c": "a0qDn0000027PxOIAU",
+        "Name": "PSV: PRSSR SAFETY VALVE",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": "DRYER,DESICCANT: 8-5/8\" X 5' 1440",
+        "key": "02iDJ000001QDxdYAG"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDn000000j7tLIAQ"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "21232311",
+        "Id": "02iDn000000j7tLIAQ",
+        "Manufacturer__c": "a0qDn0000027Q2gIAE",
+        "Name": "METER,VORTEX: 2\" NPT SEP APP \"G\"",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": "SEP,PROD: 48\" X 10' 2PH 1440# SKD",
+        "key": "02iDn000000j7tLIAQ"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDn000000j8E2IAI"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "1675291",
+        "Id": "02iDn000000j8E2IAI",
+        "Manufacturer__c": "a0qDn0000027PxOIAU",
+        "Name": "PSV: PRSSR SAFETY VALVE",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": "SEP,PROD: 48\" X 10' 2PH 1440# SKD",
+        "key": "02iDn000000j8E2IAI"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDn000000j7lrIAA"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "N/A",
+        "Id": "02iDn000000j7lrIAA",
+        "Manufacturer__c": "a0qDn0000027Q1vIAE",
+        "Name": "REG, BACK PRSSR: PNEUMATIC",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": "DRYER,DESICCANT: 8-5/8\" X 5' 1440",
+        "key": "02iDn000000j7lrIAA"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDn000000j7mLIAQ"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "1686671",
+        "Id": "02iDn000000j7mLIAQ",
+        "Manufacturer__c": "a0qDn0000027PxOIAU",
+        "Name": "PSV: PRSSR SAFETY VALVE",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": "DRYER,DESICCANT: 8-5/8\" X 5' 1440",
+        "key": "02iDn000000j7mLIAQ"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDn000000j7rkIAA"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "1686673",
+        "Id": "02iDn000000j7rkIAA",
+        "Manufacturer__c": "a0qDn0000027PxOIAU",
+        "Name": "PSV: PRSSR SAFETY VALVE",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": "DRYER,DESICCANT: 8-5/8\" X 5' 1440",
+        "key": "02iDn000000j7rkIAA"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDn000000j7LMIAY"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "160115757-01-09/F003300596",
+        "Id": "02iDn000000j7LMIAY",
+        "Manufacturer__c": "a0qDn0000027PyxIAE",
+        "Name": "VLV,ACTD: 2\" 4000# KIMRAY ECT",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": "SEP,PROD: 48\" X 10' 2PH 1440# SKD",
+        "key": "02iDn000000j7LMIAY"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDn000000j7XmIAI"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "F003300594/160115727-01-012",
+        "Id": "02iDn000000j7XmIAI",
+        "Manufacturer__c": "a0qDn0000027PyxIAE",
+        "Name": "VLV,ACTD: 2\" 4000# KIMRAY ECT",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": "SEP,PROD: 48\" X 10' 2PH 1440# SKD",
+        "key": "02iDn000000j7XmIAI"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDn000000j7ktIAA"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "1675292",
+        "Id": "02iDn000000j7ktIAA",
+        "Manufacturer__c": "a0qDn0000027PxOIAU",
+        "Name": "PSV: PRSSR SAFETY VALVE",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": "SEP,PROD: 48\" X 10' 2PH 1440# SKD",
+        "key": "02iDn000000j7ktIAA"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDn000000j7gJIAQ"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "1686669",
+        "Id": "02iDn000000j7gJIAQ",
+        "Manufacturer__c": "a0qDn0000027PxOIAU",
+        "Name": "PSV: PRSSR SAFETY VALVE",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": "DRYER,DESICCANT: 8-5/8\" X 5' 1440",
+        "key": "02iDn000000j7gJIAQ"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001PPCOYA4"
+        },
+        "LocationId": "131DJ000000stwqYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "22-P082/8398",
+        "Id": "02iDJ000001PPCOYA4",
+        "Manufacturer__c": "a0qDn0000027Po2IAE",
+        "Name": "SEP,PROD: 48\" X 10' 2PH 1440# SKD",
+        "LocationName__c": "A&M 104HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001PPCOYA4"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001PPCNYA4"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": "22-P081/8399",
+        "Id": "02iDJ000001PPCNYA4",
+        "Manufacturer__c": "a0qDn0000027Po2IAE",
+        "Name": "SEP,PROD: 48\" X 10' 2PH 1440# SKD",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001PPCNYA4"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001PgFHYA0"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001PgFHYA0",
+        "Manufacturer__c": null,
+        "Name": "ACTR,ELEC: ROTORK IQ-SERIES",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": "CHOKE: 3-1/8\" 5K EE-PU-2",
+        "key": "02iDJ000001PgFHYA0"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001PgMaYAK"
+        },
+        "LocationId": "131DJ000000su9sYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001PgMaYAK",
+        "Manufacturer__c": null,
+        "Name": "RTU: FISHER ROC 827-3B (ATHENS)",
+        "LocationName__c": "A&M PAD",
+        "ParentAssetName__c": null,
+        "key": "02iDJ000001PgMaYAK"
+      },
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001PgysYAC"
+        },
+        "LocationId": "131DJ000000stwrYAA",
+        "ManufacturerModel__c": null,
+        "SerialNumber": null,
+        "Id": "02iDJ000001PgysYAC",
+        "Manufacturer__c": null,
+        "Name": "ACTR,ELEC: ROTORK IQ-SERIES",
+        "LocationName__c": "A&M 105HC",
+        "ParentAssetName__c": "CHOKE: 3-1/8\" 5K EE-PU-2",
+        "key": "02iDJ000001PgysYAC"
+      }
+    ],
+    "offline_lookup_97f365038675_temp_655b65cb0653c200145655ad": [
+      {
+        "attributes": {
+          "type": "Asset",
+          "url": "/services/data/v55.0/sobjects/Asset/02iDJ000001QArgYAG"
+        },
+        "Name": "DRYER,DESICCANT: 8-5/8\" X 5' 1440",
+        "LocationName__c": "A&M PAD",
+        "AssetType__c": "DRYER",
+        "Asset_Classes__c": "DRYER",
+        "Inventory_Status__c": "IN USE",
+        "Manufacturer__c": "a0qDn0000027Pk3IAE",
+        "ManufacturerModel__c": "Warrior Hockey",
+        "SerialNumber": "22-P146/667-3",
+        "Id": "02iDJ000001QArgYAG",
+        "key": "02iDJ000001QArgYAG"
+      }
+    ],
+    "offline_lookup_1eb7bc8964cd_temp_655b65cb0653c200145655ad": [
+      {
+        "attributes": {
+          "type": "AssetManufacturer__c",
+          "url": "/services/data/v55.0/sobjects/AssetManufacturer__c/a0qDn0000027Pk3IAE"
+        },
+        "Name": "AMERICAN MANUFACTURING COMPANY",
+        "OwnerId": "005Dn000007jubtIAA",
+        "IsValidated__c": true,
+        "Id": "a0qDn0000027Pk3IAE",
+        "key": "a0qDn0000027Pk3IAE"
+      }
+    ],
+    "offline_lookup_b968ae07834c_temp_655b65cb0653c200145655ad": [
+      
+    ],
+    "offline_lookup_28773121fe77_temp_655b65cb0653c200145655ad": [
+      {
+        "attributes": {
+          "type": "CharacteristicPicklistValue__c",
+          "url": "/services/data/v55.0/sobjects/CharacteristicPicklistValue__c/a0wDJ000002XT2bYAG"
+        },
+        "Code__c": "NON-PRESSURIZED (< 15 PSIG)",
+        "Id": "a0wDJ000002XT2bYAG",
+        "key": "a0wDJ000002XT2bYAG",
+        "Query Salesforce": "SELECT code__c FROM CharacteristicPicklistValue__c WHERE Id = ''",
+        "Salesforce Query Error": 0,
+        "Query Formyoula": "Id = ''",
+        "Formyoula Query Error": 0,
+        "Query Offline": ""
+      },
+      {
+        "attributes": {
+          "type": "CharacteristicPicklistValue__c",
+          "url": "/services/data/v55.0/sobjects/CharacteristicPicklistValue__c/a0wDJ000002XWh4YAG"
+        },
+        "Code__c": "AIR COMPRESSOR",
+        "Id": "a0wDJ000002XWh4YAG",
+        "key": "a0wDJ000002XWh4YAG"
+      },
+      {
+        "attributes": {
+          "type": "CharacteristicPicklistValue__c",
+          "url": "/services/data/v55.0/sobjects/CharacteristicPicklistValue__c/a0wDJ000002XWh5YAG"
+        },
+        "Code__c": "FLASH GAS",
+        "Id": "a0wDJ000002XWh5YAG",
+        "key": "a0wDJ000002XWh5YAG"
+      },
+      {
+        "attributes": {
+          "type": "CharacteristicPicklistValue__c",
+          "url": "/services/data/v55.0/sobjects/CharacteristicPicklistValue__c/a0wDJ000002XWh6YAG"
+        },
+        "Code__c": "GAS LIFT",
+        "Id": "a0wDJ000002XWh6YAG",
+        "key": "a0wDJ000002XWh6YAG"
+      },
+      {
+        "attributes": {
+          "type": "CharacteristicPicklistValue__c",
+          "url": "/services/data/v55.0/sobjects/CharacteristicPicklistValue__c/a0wDJ000002XWh7YAG"
+        },
+        "Code__c": "GATHERING",
+        "Id": "a0wDJ000002XWh7YAG",
+        "key": "a0wDJ000002XWh7YAG"
+      },
+      {
+        "attributes": {
+          "type": "CharacteristicPicklistValue__c",
+          "url": "/services/data/v55.0/sobjects/CharacteristicPicklistValue__c/a0wDJ000002XWh8YAG"
+        },
+        "Code__c": "OTHER",
+        "Id": "a0wDJ000002XWh8YAG",
+        "key": "a0wDJ000002XWh8YAG"
+      },
+      {
+        "attributes": {
+          "type": "CharacteristicPicklistValue__c",
+          "url": "/services/data/v55.0/sobjects/CharacteristicPicklistValue__c/a0wDJ000002XWh9YAG"
+        },
+        "Code__c": "SALES",
+        "Id": "a0wDJ000002XWh9YAG",
+        "key": "a0wDJ000002XWh9YAG"
+      },
+      {
+        "attributes": {
+          "type": "CharacteristicPicklistValue__c",
+          "url": "/services/data/v55.0/sobjects/CharacteristicPicklistValue__c/a0wDJ000002XWhAYAW"
+        },
+        "Code__c": "VRU",
+        "Id": "a0wDJ000002XWhAYAW",
+        "key": "a0wDJ000002XWhAYAW"
+      },
+      {
+        "attributes": {
+          "type": "CharacteristicPicklistValue__c",
+          "url": "/services/data/v55.0/sobjects/CharacteristicPicklistValue__c/a0wDJ000002XWhBYAW"
+        },
+        "Code__c": "WELLHEAD",
+        "Id": "a0wDJ000002XWhBYAW",
+        "key": "a0wDJ000002XWhBYAW"
+      },
+      {
+        "attributes": {
+          "type": "CharacteristicPicklistValue__c",
+          "url": "/services/data/v55.0/sobjects/CharacteristicPicklistValue__c/a0wDJ000002XWhCYAW"
+        },
+        "Code__c": "WELLHEAD CASING",
+        "Id": "a0wDJ000002XWhCYAW",
+        "key": "a0wDJ000002XWhCYAW"
+      }
+    ],
+    "offline_lookup_655b65cb0653c200145655d9_temp_655b65cb0653c200145655ad": [
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004gryMYAQ"
+        },
+        "Value__c": "N",
+        "Name": "ASME CODE?",
+        "Id": "a0sDJ000004gryMYAQ",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391sqYAA",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "Picklist",
+        "MinRange__c": null,
+        "MaxRange__c": null,
+        "Precision__c": 0,
+        "IsRequired__c": false,
+        "Max_Length__c": 1,
+        "key": "a0sDJ000004gryMYAQ"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004gryNYAQ"
+        },
+        "Value__c": "TWO HEARTS BEAT AS ONE",
+        "Name": "COMMENTS",
+        "Id": "a0sDJ000004gryNYAQ",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391qBYAQ",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "CHAR",
+        "MinRange__c": null,
+        "MaxRange__c": null,
+        "Precision__c": 0,
+        "IsRequired__c": true,
+        "Max_Length__c": 30,
+        "key": "a0sDJ000004gryNYAQ"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004gryRYAQ"
+        },
+        "Value__c": "POOR",
+        "Name": "CONDITION",
+        "Id": "a0sDJ000004gryRYAQ",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391rtYAA",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "Picklist",
+        "MinRange__c": null,
+        "MaxRange__c": null,
+        "Precision__c": 0,
+        "IsRequired__c": false,
+        "Max_Length__c": 30,
+        "key": "a0sDJ000004gryRYAQ"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004gryTYAQ"
+        },
+        "Value__c": "AIR",
+        "Name": "DRYER SERVICE",
+        "Id": "a0sDJ000004gryTYAQ",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391toYAA",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "Picklist",
+        "MinRange__c": null,
+        "MaxRange__c": null,
+        "Precision__c": 0,
+        "IsRequired__c": false,
+        "Max_Length__c": 30,
+        "key": "a0sDJ000004gryTYAQ"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004gryqYAA"
+        },
+        "Value__c": "333.33",
+        "Name": "HEIGHT (FT)",
+        "Id": "a0sDJ000004gryqYAA",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391sOYAQ",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "NUM",
+        "MinRange__c": "0",
+        "MaxRange__c": "9999.99",
+        "Precision__c": 2,
+        "IsRequired__c": true,
+        "Max_Length__c": 6,
+        "key": "a0sDJ000004gryqYAA"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004gryWYAQ"
+        },
+        "Value__c": "34",
+        "Name": "JURISDICTION NUMBER",
+        "Id": "a0sDJ000004gryWYAQ",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391uxYAA",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "CHAR",
+        "MinRange__c": null,
+        "MaxRange__c": null,
+        "Precision__c": 0,
+        "IsRequired__c": false,
+        "Max_Length__c": 30,
+        "key": "a0sDJ000004gryWYAQ"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004grybYAA"
+        },
+        "Value__c": "223.880",
+        "Name": "MAX ALLOWED WRK PRESSURE (PSI)",
+        "Id": "a0sDJ000004grybYAA",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391wTYAQ",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "NUM",
+        "MinRange__c": "0",
+        "MaxRange__c": "9999999.999",
+        "Precision__c": 3,
+        "IsRequired__c": false,
+        "Max_Length__c": 10,
+        "key": "a0sDJ000004grybYAA"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004gryXYAQ"
+        },
+        "Value__c": "2023-11-30",
+        "Name": "MFG DATE",
+        "Id": "a0sDJ000004gryXYAQ",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391rJYAQ",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "Date",
+        "MinRange__c": null,
+        "MaxRange__c": null,
+        "Precision__c": 0,
+        "IsRequired__c": true,
+        "Max_Length__c": 10,
+        "key": "a0sDJ000004gryXYAQ"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004grygYAA"
+        },
+        "Value__c": "-656",
+        "Name": "MIN DESIGN METAL TEMP",
+        "Id": "a0sDJ000004grygYAA",
+        "CharacteristicDefinitionId__c": "a0vDJ00000394jvYAA",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "NUM",
+        "MinRange__c": "-99999",
+        "MaxRange__c": "99999",
+        "Precision__c": 0,
+        "IsRequired__c": false,
+        "Max_Length__c": 5,
+        "key": "a0sDJ000004grygYAA"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004grylYAA"
+        },
+        "Value__c": "201",
+        "Name": "NATIONAL BOARD NUMBER",
+        "Id": "a0sDJ000004grylYAA",
+        "CharacteristicDefinitionId__c": "a0vDJ00000392NxYAI",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "CHAR",
+        "MinRange__c": null,
+        "MaxRange__c": null,
+        "Precision__c": 0,
+        "IsRequired__c": false,
+        "Max_Length__c": 30,
+        "key": "a0sDJ000004grylYAA"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004grymYAA"
+        },
+        "Value__c": "VERTICAL",
+        "Name": "ORIENTATION",
+        "Id": "a0sDJ000004grymYAA",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391m8YAA",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "Picklist",
+        "MinRange__c": null,
+        "MaxRange__c": null,
+        "Precision__c": 0,
+        "IsRequired__c": false,
+        "Max_Length__c": 30,
+        "key": "a0sDJ000004grymYAA"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004grz0YAA"
+        },
+        "Value__c": "N",
+        "Name": "STRESS RELIEVED?",
+        "Id": "a0sDJ000004grz0YAA",
+        "CharacteristicDefinitionId__c": "a0vDJ00000394jqYAA",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "Picklist",
+        "MinRange__c": null,
+        "MaxRange__c": null,
+        "Precision__c": 0,
+        "IsRequired__c": false,
+        "Max_Length__c": 1,
+        "key": "a0sDJ000004grz0YAA"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004gryUYAQ"
+        },
+        "Value__c": "DESICCANT",
+        "Name": "TYPE",
+        "Id": "a0sDJ000004gryUYAQ",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391tjYAA",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "Picklist",
+        "MinRange__c": null,
+        "MaxRange__c": null,
+        "Precision__c": 0,
+        "IsRequired__c": true,
+        "Max_Length__c": 30,
+        "key": "a0sDJ000004gryUYAQ"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004grySYAQ"
+        },
+        "Value__c": "RELIC",
+        "Name": "UNIQUE DESCRIPTION",
+        "Id": "a0sDJ000004grySYAQ",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391rYYAQ",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "CHAR",
+        "MinRange__c": null,
+        "MaxRange__c": null,
+        "Precision__c": 0,
+        "IsRequired__c": false,
+        "Max_Length__c": 30,
+        "key": "a0sDJ000004grySYAQ"
+      },
+      {
+        "attributes": {
+          "type": "AssetCharacteristic__c",
+          "url": "/services/data/v55.0/sobjects/AssetCharacteristic__c/a0sDJ000004gryvYAA"
+        },
+        "Value__c": "1987.00",
+        "Name": "WIDTH (OUTSIDE DIAMETER) (IN)",
+        "Id": "a0sDJ000004gryvYAA",
+        "CharacteristicDefinitionId__c": "a0vDJ00000391tHYAQ",
+        "AssetId__c": "02iDJ000001QArgYAG",
+        "Data_Type__c": "NUM",
+        "MinRange__c": "0",
+        "MaxRange__c": "9999.99",
+        "Precision__c": 2,
+        "IsRequired__c": false,
+        "Max_Length__c": 6,
+        "key": "a0sDJ000004gryvYAA"
+      }
+    ],
+    "offline_lookup_5476d7bbaf8b_temp_655b65cb0653c200145655ad": [
+      {
+        "attributes": {
+          "type": "CharacteristicDefinition__c",
+          "url": "/services/data/v55.0/sobjects/CharacteristicDefinition__c/a0vDJ00000391qBYAQ"
+        },
+        "CharacteristicPicklistId__c": null,
+        "Id": "a0vDJ00000391qBYAQ",
+        "key": "a0vDJ00000391qBYAQ"
+      }
+    ]
+  }
